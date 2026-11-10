@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Martin Bautista</h1>
-<h3 align="center">Full-Stack Web Developer | Building Modern Web Applications</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
   A developer passionate about building practical, scalable, and user-friendly applications. I specialize in frontend development while also working across backend systems, API development, database management, and AI-powered solutions.
