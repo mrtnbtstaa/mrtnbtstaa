@@ -78,6 +78,11 @@
   <img src="https://skillicons.dev/icons?i=postman,git,github" />
 </p>
 
+#### Testing
+<p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
