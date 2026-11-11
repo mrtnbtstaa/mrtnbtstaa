@@ -81,11 +81,12 @@
 
 ### 🚀 Featured Projects
 
-#### Ledgerline — Full Stack AIO
+#### Ledgerline — Full Stack 
 
-A backend project focused on receipt processing and structured financial data extraction.
+A full stack project focused on receipt processing and structured financial data extraction.
 
-- Repository: [ledger-be](https://github.com/mrtnbtstaa/ledger-be)
+- Repository FE: [ledger-fe](https://github.com/mrtnbtstaa/ledger-fe)
+- Repository BE: [ledger-be](https://github.com/mrtnbtstaa/ledger-be)
 - Technologies: Python, FastAPI, PostgreSQL, Groq, Next.js, Tanstack Query, Zod
 
 ---
