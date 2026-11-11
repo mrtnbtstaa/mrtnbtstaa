@@ -95,6 +95,17 @@ A full stack project focused on receipt processing and structured data extractio
 - Repository BE: [ledger-be](https://github.com/mrtnbtstaa/ledger-be)
 - Technologies: Python, FastAPI, PostgreSQL, Groq, Next.js, Tanstack Query, Zod
 
+#### FileFlow — Desktop Application 
+
+An offline desktop file organizer that transforms cluttered folders into clean, organized spaces through smart file sorting, bulk renaming, and automated folder monitoring, with built-in preview, undo, and data safety features.
+
+- Repository: [file-flow](https://github.com/mrtnbtstaa/file-flow)
+- Technologies: Python, Watchdog, Pytest, Tkinter
+
+
+
+
+
 ---
 
 ### 📊 GitHub Statistics
