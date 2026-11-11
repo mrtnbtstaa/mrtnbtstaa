@@ -60,7 +60,7 @@
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=ollama" />
+  <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="48" height="48"/>
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 </p>
 
