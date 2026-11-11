@@ -76,6 +76,7 @@
 #### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postman,git,github" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
 #### Testing
