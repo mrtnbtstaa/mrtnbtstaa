@@ -38,7 +38,7 @@
 
 #### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,jquery" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,jquery,java,c#" />
 </p>
 
 #### Frontend Development
