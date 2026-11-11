@@ -43,7 +43,7 @@
 
 #### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap" />
 </p>
 
 #### Backend Development
