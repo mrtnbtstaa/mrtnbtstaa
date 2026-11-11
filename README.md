@@ -83,7 +83,7 @@
 
 #### Ledgerline — Full Stack 
 
-A full stack project focused on receipt processing and structured financial data extraction.
+A full stack project focused on receipt processing and structured data extraction.
 
 - Repository FE: [ledger-fe](https://github.com/mrtnbtstaa/ledger-fe)
 - Repository BE: [ledger-be](https://github.com/mrtnbtstaa/ledger-be)
