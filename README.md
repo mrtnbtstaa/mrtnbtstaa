@@ -38,12 +38,12 @@
 
 #### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,jquery,java,c#" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c#" />
 </p>
 
 #### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
 </p>
 
 #### Backend Development
