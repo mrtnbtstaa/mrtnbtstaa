@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
-  A developer passionate about building practical, and user-friendly applications. I specialize in frontend development while also working across backend systems, API development, database management, and AI-powered solutions.
+  A full-stack developer focused on building practical, user-friendly applications, while actively exploring AI-powered solutions and AI agent workflows.
 </p>
 
 <p align="center">
