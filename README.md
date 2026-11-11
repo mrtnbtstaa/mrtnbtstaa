@@ -53,7 +53,7 @@
 
 #### Databases & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 </p>
 
 #### AI & Agent Development
