@@ -87,7 +87,7 @@
 
 ### 🚀 Featured Projects
 
-#### Ledgerline — Full Stack 
+#### Ledgerline — AI Powered Full Stack 
 
 A full stack project focused on receipt processing and structured data extraction.
 
